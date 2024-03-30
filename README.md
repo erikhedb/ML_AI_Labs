@@ -29,7 +29,8 @@ This is a collection of my own private notes on the topic of ML and AI. Nothing 
 
 # TODO
 
-## Explore the Sidekit breast cancer data set with multiple linear regresion
+## Explore the Sidekit breast cancer data set 
+- Does multiple linear regresion say anything?
 - What are the most important factors for breast cancer?
 
 - Read up on the conclutions different classifyer algorithms
