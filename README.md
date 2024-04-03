@@ -36,6 +36,10 @@ This is a collection of my own private notes on the topic of ML and AI. Nothing 
 
 # TODO
 
+## Explore SDV ML Algorithms
+- Synthetic Data Vault - Used in TDM for Test data purposes
+- Explor the different algorithms used and map them onto the ML landscape
+
 ## Explore the Sidekit breast cancer data set 
 - Does multiple linear regresion say anything?
 - What are the most important factors for breast cancer?
