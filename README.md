@@ -40,7 +40,7 @@ This is a collection of my own private notes on the topic of ML and AI. Nothing 
 - Synthetic Data Vault - Used in TDM for Test data purposes
 - Explor the different algorithms used and map them onto the ML landscape
 
-## Explore the Sidekit breast cancer data set 
+## Explore the Wisconsin breast cancer data set -  [From scikit-learn](https://scikit-learn.org/stable/)
 - Does multiple linear regresion say anything?
 - What are the most important factors for breast cancer?
 
