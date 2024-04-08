@@ -16,20 +16,23 @@ This is a collection of my own private notes on the topic of ML and AI. Nothing 
 
 # ML Labs
 - Lab 0 - Some background to datasets and visualization
-- Lab 1 - KNN
-- Lab 2 - Linerar Regresson
-- Lab 3 - Logistic Regression
-- Lab 4 - Decision Trees
-- Lab 5 - Random Forests
-- Lab 6 - NaiveBayes - Classification of text, sentiment analysis and medical diagnosis
-- Lab 7 - PCA - Principal Component Analysis
-- Lab 8 - Perceptron - Model of a sigle neuron
+
+**Supervised learning**
+- Lab 1 - KNN - Application in both classification and regression
+- Lab 2 - Linerar Regresson - Multi dimensional f(X)=kX+b
+- Lab 3 - Logistic Regression - Binary Classification - Medical, Finance, Marketing etc
+- Lab 4 - Decision Trees - Customer Segmentation, Loan Approval, Medicine, Email Filtering etc
+- Lab 5 - Random Forests - 
+- Lab 6 - NaiveBayes - NaiveBayes Classification of text, sentiment analysis and medical diagnosis
+- Lab 7 - Perceptron - Model of a sigle neuron - Binary Classificaton with linear data 
+
+**Unsupervised Learning**
+- Lab 8 - PCA - Principal Component Analysis - linear method and might not perform well with polynomialy structured data
+
 - Lab 9 - SVM - Suport Vector Machine - Both for classification and regression tasks
 - Lab 10 - KMeans - Unsupervised learning used for clustering
 
 
-# AI Labs
-...
 
 # LLM Labs
 ...
