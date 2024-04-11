@@ -6,8 +6,8 @@ Intelligence exhibited by machines, particularly computer systems, as opposed to
 - Artificial intelligence was founded as an academic discipline in 1956
 - Many years of ups and downs with cycles of optimism and funding. (Read about AI winter and the different cycles)
 - 1990's Expert systems - now more broadly replaced by Machine learning and Neural Networks
-- Deep learning boom after 2012 surpasing all prevoius AI techniques
-- In 2017 transformer architecure has led to todays boom and hype
+- Deep learning boom after 2012 surpassing all previous AI techniques
+- In 2017 transformer architecture has led to todays boom and hype
 
 # Sub fields / Disciplines
 
@@ -44,7 +44,7 @@ Aims to simulate human thought processes in a computerized model, combining AI w
 Studies the human brain to inspire the development of AI systems. This includes understanding how neural networks in the brain process information to improve artificial neural networks.
 
 ## Other
-Besides this there is a mix of philosophy AI hybrid dicpolines. Also some parts of Big Data and Human Computer Interaction (HCI) can be attributed as AI.
+Besides this there is a mix of philosophy AI hybrid disciplines. Also, some parts of Big Data and Human Computer Interaction (HCI) can be attributed as AI.
 
 
 # GPT djungle

@@ -8,6 +8,7 @@ __pycache__/
 
 #Windows shit
 **/*Zone.Identifier
+**/*DS_Store
 
 # Distribution / packaging
 .Python
