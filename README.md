@@ -23,7 +23,7 @@ This is a collection of my own private notes on the topic of ML and AI. Nothing 
 - Lab 2 - Linerar Regresson - Multi dimensional f(X)=kX+b
 - Lab 3 - Logistic Regression - Binary Classification - Medical, Finance, Marketing etc
 - Lab 4 - Decision Trees - Customer Segmentation, Loan Approval, Medicine, Email Filtering etc
-- Lab 5 - Random Forests - 
+- Lab 5 - Random Forests - Creates a multitude of decision trees during training time
 - Lab 6 - NaiveBayes - NaiveBayes Classification of text, sentiment analysis and medical diagnosis
 - Lab 8 - Perceptron - Model of a sigle neuron - Binary Classificaton with linear data 
 - Lab 9 - SVM - Suport Vector Machine - Both for classification and regression tasks - Image, text etc
