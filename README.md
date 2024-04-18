@@ -41,6 +41,7 @@ This is a collection of my own private notes on the topic of ML and AI. Nothing 
 - Mirsa Turp - 50 Days of Deep Learning - a gold mine - [Link](https://www.youtube.com/@misraturp/videos)
 - Assembly AI - Machine Learning from Scrarch - another gold mine - [Link](https://www.youtube.com/playlist?list=PLcWfeUsAys2k_xub3mHks85sBHZvg24Jd)
 - Andrej Karpathy - Good content and the target project of buidling a GPT - https://www.youtube.com/@AndrejKarpathy
+- 3Blue1Brown - https://www.youtube.com/@3blue1brown/videos
 
 # TODO
 
